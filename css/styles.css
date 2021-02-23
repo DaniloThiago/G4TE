@@ -6076,10 +6076,6 @@ a.close.disabled {
   background-color: #1abc9c !important;
 }
 
-.bg-tertiary {
-  background-color: #f0f5f8 !important;
-}
-
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
