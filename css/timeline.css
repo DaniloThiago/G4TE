@@ -143,7 +143,23 @@
     height: 280px;
     overflow-y: auto;
     padding: 0 10px;
+    text-align: justify;
+    
 }
+
+/**@TODO 
+    fazer o estilo dos textos secundarios de cada paragrafo, nao consegui estilizar.
+**/
+#timeline #issues li p span{
+    font-style: italic;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: justify;
+    list-style: circle;
+    padding-top: 30px;
+    
+}
+
 
 #timeline #grad_top #grad_bottom {
     width: 500px;
