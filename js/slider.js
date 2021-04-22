@@ -114,7 +114,7 @@ function heroSlider() {
                         fontSize: '8rem',
                         paddingTop: '12rem'
                     },
-                    text: `Incentivando a Astronomia no Ensino Fundamental`,
+                    text: `<p style="font-size: 6vw">Incentivando a Astronomia no Ensino Fundamental</p>`,
                 },
                 {
                     title: 'SOLAR SYSTEM SCOPE',
@@ -215,7 +215,7 @@ function heroSlider() {
                     `,
                     style: {
                         fontSize: '2rem',
-                        paddingTop: '10rem'
+                        paddingTop: '8rem'
                     }
                 }
             ]
