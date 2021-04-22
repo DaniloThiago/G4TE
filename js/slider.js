@@ -170,7 +170,7 @@ function heroSlider() {
                         </ul>
                     `,
                     style: {
-                        fontSize: '3rem',
+                        fontSize: '2.5rem',
                         paddingTop: '100px'
                     }
                 },
