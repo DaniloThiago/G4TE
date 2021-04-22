@@ -153,7 +153,7 @@ function heroSlider() {
                     text: `O projeto visa à inclusão da astronomia como campo capaz de colaborar com o aprendizado de conceitos pertencentes às áreas de estudo da ciência trabalhados em sala de aula, gerando assim a curiosidade aos alunos a fim de levá-los  à pesquisa e ao interesse pelo assunto.`,
                     style: {
                         fontSize: '3rem',
-                        paddingTop: '18rem'
+                        paddingTop: '14rem'
                     }
                 },
                 {
